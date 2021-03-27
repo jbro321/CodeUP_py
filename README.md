@@ -1,3 +1,3 @@
 ## Problem Solving
 --------------------------------------
-### [CodeUp_py](./CodeUp_py/README.md)
+### 1. [CodeUp](./CodeUp/README.md)
