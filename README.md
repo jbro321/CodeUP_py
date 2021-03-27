@@ -1,5 +1,3 @@
-# Hello Python World
-
-## Study
-### [Enthusiastic_Python](./Enthusiastic_Python/README.md)
+## Problem Solving
+--------------------------------------
 ### [CodeUp_py](./CodeUp_py/README.md)
