@@ -1,3 +1,5 @@
+# CodeUp #6078
+
 c = input()
 
 while c!='q' :

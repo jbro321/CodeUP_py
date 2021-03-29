@@ -1,3 +1,5 @@
+# CodeUp #6024
+
 a1, a2 = input().split()
 a = a1 + a2
 print(a)

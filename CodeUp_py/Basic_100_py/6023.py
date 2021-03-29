@@ -1,3 +1,5 @@
+# CodeUp #6023
+
 a= input().split(':')
 print(a[1])
 """ 

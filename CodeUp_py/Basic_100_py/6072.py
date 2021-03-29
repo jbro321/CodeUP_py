@@ -1,3 +1,5 @@
+# CodeUp #6072
+
 n = int(input())
 while n!=0:
     print(n)

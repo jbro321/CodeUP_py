@@ -1,3 +1,5 @@
+# CodeUp #6070
+
 m = input()
 m = int(m)
 

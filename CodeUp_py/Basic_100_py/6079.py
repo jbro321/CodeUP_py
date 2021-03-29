@@ -1,3 +1,5 @@
+# CodeUp #6079
+
 n = int(input())
 m = 1
 s = 0

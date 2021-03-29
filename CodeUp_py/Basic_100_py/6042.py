@@ -1,3 +1,5 @@
+# CodeUp #6042
+
 a = float(input())
 print(round(a, 2))
 

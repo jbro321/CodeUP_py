@@ -1,3 +1,5 @@
+# CodeUp #6069
+
 c = input()
 
 if c=='A' :

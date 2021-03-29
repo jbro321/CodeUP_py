@@ -1,3 +1,5 @@
+# CodeUp #6066
+
 a, b, c = input().split()
 a = int(a)
 b = int(b)

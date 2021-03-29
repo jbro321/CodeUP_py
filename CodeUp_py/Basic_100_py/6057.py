@@ -1,3 +1,5 @@
+# CodeUp #6057
+
 a, b = input().split()
 a1 = bool(int(a))
 b1 = bool(int(b))

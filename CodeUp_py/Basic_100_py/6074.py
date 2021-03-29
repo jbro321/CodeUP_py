@@ -1,3 +1,5 @@
+# CodeUp #6074
+
 c = ord(input())
 t = ord('a')
 while t<=c :

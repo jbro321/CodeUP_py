@@ -1,3 +1,5 @@
+# CodeUp #6025
+
 a, b = input().split()
 # c = a + b 로 할시에 문자열로 인식된다.
 c = int(a) + int(b)
