@@ -1,8 +1,7 @@
 # CodeUp #6084
 
-r, g, b = map(int, input().split())
-for i in range(r):
-  for j in range(g):
-    for k in range(b):
-      print('{} {} {}'.format(i, j, k))
-print(r*g*b)
+h, b, c, s = map(int, input().split())
+
+result = (h*b*c*s)/8/1024/1024
+
+print('%.1f MB' %result)
